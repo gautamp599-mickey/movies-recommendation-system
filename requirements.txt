@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+python-dateutil
+requests
+scikit-learn
+joblib
+nltk
